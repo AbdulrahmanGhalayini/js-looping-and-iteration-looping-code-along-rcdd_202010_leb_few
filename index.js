@@ -4,6 +4,7 @@ function contDown(s){
   console.log(s--);
 }
 }
+<<<<<<< HEAD
 
 function  writeCards(s , b){
   
@@ -14,4 +15,6 @@ function  writeCards(s , b){
 
 writeCards(["Ada", "Brendan", "Ali"], "birthday");
 
+=======
+>>>>>>> 845bc28767576741514a6bbb0a6815674f3ec3fd
 contDown(10);
